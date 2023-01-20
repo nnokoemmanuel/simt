@@ -1,0 +1,38 @@
+.id_file {
+   padding: 5px;
+   border: 1px solid #336699;
+   background-color: white;
+   color: #336699;
+   background: none;
+   font-size: inherit;
+   font-family: inherit;
+   outline: none;
+   display: inline-block;
+   vertical-align: middle;
+   cursor: pointer;
+   border-radius: 2px;
+   }
+
+.boutonDelette {
+	width:25px;
+	height:25px;
+	background:#478bf9;
+	font:bold 13px Arial;
+	border-radius:50%;
+	border:none;
+	color:#fff;
+}
+.backing-doc {
+	padding: 5px;
+    border: 1px solid #336699;
+    background-color: white;
+    color: #336699;
+    background: none;
+    font-size: inherit;
+    font-family: inherit;
+    outline: none;
+    display: inline-block;
+    vertical-align: middle;
+    cursor: pointer;
+    border-radius: 2px;
+}

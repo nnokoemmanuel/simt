@@ -1,0 +1,44 @@
+#kt_footer_id{
+	background:rgb(238,242,242);
+}
+
+.dark-even{
+	background:#f4f2f5;
+}
+.has-error .help-block {
+  color: red;
+}
+
+.daterangepicker{
+    z-index: 1100 !important;
+}
+
+/*
+for archives forms
+*/
+
+.upload-block-margins{
+	margin-top: 5%;
+	margin-bottom: 30%;
+
+}
+
+
+/*
+for appplication forms
+*/
+
+.upload-block-margins-application-block{
+	margin-bottom:80px;
+
+}
+
+.upload-block-margins-application-row{
+	margin-bottom:150px;
+
+}
+.app-color, .btn , thead,.modal-header, .modal-title, th, .btn-success{
+	background:#80ad71;
+}
+
+
